@@ -1,0 +1,5 @@
+# Azure Palms Resort & Spa — the bay, indexed
+User-agent: *
+Allow: /
+
+# No sitemap yet — a single gentle page.
